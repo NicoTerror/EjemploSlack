@@ -1,0 +1,1 @@
+Abrir el archivo con el idle de python
